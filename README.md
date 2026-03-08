@@ -1,3 +1,7 @@
+The Problem: "Raw sensor data is messy, inconsistent, and expensive to query in CSV format."
+
+The Solution: "Built a serverless AWS pipeline to automate cleaning and optimize storage using the Medallion Architecture."
+
 Overview
 This project demonstrates a Data Lakehouse architecture built on AWS. It automates the ingestion, transformation, and optimization of raw green energy sensor data (CSV) into an analytical-ready format (Parquet) for business intelligence.
 
